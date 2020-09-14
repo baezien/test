@@ -5,4 +5,3 @@ items = stocks.items()
 
 print(keys,type(keys))
 print(values,type(values))
-print(items,type(items))
